@@ -2,6 +2,7 @@
   <div id="app">
     hello app!!!
     hi!!!!!!!!!!
+    wei!!
   </div>
 </template>
 
